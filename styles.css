@@ -1,0 +1,15 @@
+.hero-section{
+  background-image: url(hotel\ top\ view.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 500px;
+  width: 100%;
+  background-attachment: fixed;
+
+}
+.bed1 {
+  width: 90px;
+  height:110 px;
+  object-fit: cover;
+}
